@@ -1,1 +1,1 @@
-# DigitalCatalog
+# Digital-catalog
