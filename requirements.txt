@@ -1,4 +1,4 @@
-easyocr 1.7.1  		
+easyocr 
 pandas 2.2.0   		
 gTTS 2.5.1       		
 pymongo 4.6.1   	 	
